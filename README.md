@@ -3,4 +3,4 @@
 Código retirado do canal Online Web ustaad para treino. Transcrevi todo código em um único arquivo para facilitar a visualização. 
 
 [Fonte:](https://www.youtube.com/watch?v=Bd0On_INP80&feature=em-uploademail)
-![Captura de tela]()
+![Captura de tela](https://github.com/alexandrebatista2014/slide-css1/blob/master/slide-css.gif)
